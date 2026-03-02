@@ -50,6 +50,6 @@ The results show that the model achieved high classification performance. The pr
 ---
 
 ## 👩‍💻 Author
-Name Surname  
-Student Number  
-GitHub Profile Link
+Helin Bağlamış 
+427631
+
