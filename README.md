@@ -51,5 +51,5 @@ The results show that the model achieved high classification performance. The pr
 
 ## 👩‍💻 Author
 Helin Bağlamış 
-427631
+
 
